@@ -1,0 +1,10 @@
+C:\Users\Xopero\Documents\Praktyki\Fourth_Window_App_1.71\Fourth_Window_App_1.71\bin\Debug\Fourth_Window_App_1.71.exe.config
+C:\Users\Xopero\Documents\Praktyki\Fourth_Window_App_1.71\Fourth_Window_App_1.71\bin\Debug\Fourth_Window_App_1.71.exe
+C:\Users\Xopero\Documents\Praktyki\Fourth_Window_App_1.71\Fourth_Window_App_1.71\bin\Debug\Fourth_Window_App_1.71.pdb
+C:\Users\Xopero\Documents\Praktyki\Fourth_Window_App_1.71\Fourth_Window_App_1.71\obj\Debug\Fourth_Window_App_1.71.csproj.AssemblyReference.cache
+C:\Users\Xopero\Documents\Praktyki\Fourth_Window_App_1.71\Fourth_Window_App_1.71\obj\Debug\Fourth_Window_App_1._71.Form1.resources
+C:\Users\Xopero\Documents\Praktyki\Fourth_Window_App_1.71\Fourth_Window_App_1.71\obj\Debug\Fourth_Window_App_1._71.Properties.Resources.resources
+C:\Users\Xopero\Documents\Praktyki\Fourth_Window_App_1.71\Fourth_Window_App_1.71\obj\Debug\Fourth_Window_App_1.71.csproj.GenerateResource.cache
+C:\Users\Xopero\Documents\Praktyki\Fourth_Window_App_1.71\Fourth_Window_App_1.71\obj\Debug\Fourth_Window_App_1.71.csproj.CoreCompileInputs.cache
+C:\Users\Xopero\Documents\Praktyki\Fourth_Window_App_1.71\Fourth_Window_App_1.71\obj\Debug\Fourth_Window_App_1.71.exe
+C:\Users\Xopero\Documents\Praktyki\Fourth_Window_App_1.71\Fourth_Window_App_1.71\obj\Debug\Fourth_Window_App_1.71.pdb
