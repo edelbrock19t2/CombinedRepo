@@ -1,0 +1,10 @@
+C:\Users\Xopero\Documents\Praktyki\First_Window_App_1.1\First_Window_App_1.1\bin\Debug\First_Window_App_1.1.exe.config
+C:\Users\Xopero\Documents\Praktyki\First_Window_App_1.1\First_Window_App_1.1\bin\Debug\First_Window_App_1.1.exe
+C:\Users\Xopero\Documents\Praktyki\First_Window_App_1.1\First_Window_App_1.1\bin\Debug\First_Window_App_1.1.pdb
+C:\Users\Xopero\Documents\Praktyki\First_Window_App_1.1\First_Window_App_1.1\obj\Debug\First_Window_App_1.1.csproj.AssemblyReference.cache
+C:\Users\Xopero\Documents\Praktyki\First_Window_App_1.1\First_Window_App_1.1\obj\Debug\First_Window_App_1._1.Form1.resources
+C:\Users\Xopero\Documents\Praktyki\First_Window_App_1.1\First_Window_App_1.1\obj\Debug\First_Window_App_1._1.Properties.Resources.resources
+C:\Users\Xopero\Documents\Praktyki\First_Window_App_1.1\First_Window_App_1.1\obj\Debug\First_Window_App_1.1.csproj.GenerateResource.cache
+C:\Users\Xopero\Documents\Praktyki\First_Window_App_1.1\First_Window_App_1.1\obj\Debug\First_Window_App_1.1.csproj.CoreCompileInputs.cache
+C:\Users\Xopero\Documents\Praktyki\First_Window_App_1.1\First_Window_App_1.1\obj\Debug\First_Window_App_1.1.exe
+C:\Users\Xopero\Documents\Praktyki\First_Window_App_1.1\First_Window_App_1.1\obj\Debug\First_Window_App_1.1.pdb
