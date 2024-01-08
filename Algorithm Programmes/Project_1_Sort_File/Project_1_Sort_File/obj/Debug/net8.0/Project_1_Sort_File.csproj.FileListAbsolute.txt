@@ -1,0 +1,14 @@
+C:\Users\Xopero\Documents\Praktyki\Algorythm Projects\Project_1_Sort_File\Project_1_Sort_File\bin\Debug\net8.0\Project_1_Sort_File.exe
+C:\Users\Xopero\Documents\Praktyki\Algorythm Projects\Project_1_Sort_File\Project_1_Sort_File\bin\Debug\net8.0\Project_1_Sort_File.deps.json
+C:\Users\Xopero\Documents\Praktyki\Algorythm Projects\Project_1_Sort_File\Project_1_Sort_File\bin\Debug\net8.0\Project_1_Sort_File.runtimeconfig.json
+C:\Users\Xopero\Documents\Praktyki\Algorythm Projects\Project_1_Sort_File\Project_1_Sort_File\bin\Debug\net8.0\Project_1_Sort_File.dll
+C:\Users\Xopero\Documents\Praktyki\Algorythm Projects\Project_1_Sort_File\Project_1_Sort_File\bin\Debug\net8.0\Project_1_Sort_File.pdb
+C:\Users\Xopero\Documents\Praktyki\Algorythm Projects\Project_1_Sort_File\Project_1_Sort_File\obj\Debug\net8.0\Project_1_Sort_File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xopero\Documents\Praktyki\Algorythm Projects\Project_1_Sort_File\Project_1_Sort_File\obj\Debug\net8.0\Project_1_Sort_File.AssemblyInfoInputs.cache
+C:\Users\Xopero\Documents\Praktyki\Algorythm Projects\Project_1_Sort_File\Project_1_Sort_File\obj\Debug\net8.0\Project_1_Sort_File.AssemblyInfo.cs
+C:\Users\Xopero\Documents\Praktyki\Algorythm Projects\Project_1_Sort_File\Project_1_Sort_File\obj\Debug\net8.0\Project_1_Sort_File.csproj.CoreCompileInputs.cache
+C:\Users\Xopero\Documents\Praktyki\Algorythm Projects\Project_1_Sort_File\Project_1_Sort_File\obj\Debug\net8.0\Project_1_Sort_File.dll
+C:\Users\Xopero\Documents\Praktyki\Algorythm Projects\Project_1_Sort_File\Project_1_Sort_File\obj\Debug\net8.0\refint\Project_1_Sort_File.dll
+C:\Users\Xopero\Documents\Praktyki\Algorythm Projects\Project_1_Sort_File\Project_1_Sort_File\obj\Debug\net8.0\Project_1_Sort_File.pdb
+C:\Users\Xopero\Documents\Praktyki\Algorythm Projects\Project_1_Sort_File\Project_1_Sort_File\obj\Debug\net8.0\Project_1_Sort_File.genruntimeconfig.cache
+C:\Users\Xopero\Documents\Praktyki\Algorythm Projects\Project_1_Sort_File\Project_1_Sort_File\obj\Debug\net8.0\ref\Project_1_Sort_File.dll

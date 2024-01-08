@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Project_1_Sort_File/1.0.0": {
+        "runtime": {
+          "Project_1_Sort_File.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Project_1_Sort_File/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

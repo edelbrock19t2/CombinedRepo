@@ -1,0 +1,8 @@
+* Bubble sort jest najszybszy w przypadku niemal posortowanych danych, ale jego czas pracy rosn¹cy liniowo powoduje, ¿e na du¿ych zbiorach danych jest on niepraktyczny.
+* Quick sort jest zazwyczaj preferowany z powodu lepszej z³o¿onoœci czasowej, ale na du¿ych zbiorach danych mo¿e byæ niewydajny z powodu du¿ej rekurencji.
+* Merge sort, ze wzglêdu na lepsz¹ precyzyjnoœæ i stabilnoœæ, jest najszybszy w przypadku gdy wymagane jest posortowanie danych bez zmian, takich jak ci¹gi znaków.
+
+
+Najszybsza z trzech metod to Merge Sort. W porównaniu z Bubble Sort, które ma czas pracy liniowej O(n^2), Merge Sort ma lepsz¹ z³o¿onoœæ czasow¹, która wynosi O(n log n).
+Natomiast w porównaniu z Quick Sort, który ma lepsz¹ œredni¹ z³o¿onoœæ czasow¹, ale mo¿e mieæ najgorsz¹ wartoœæ O(n^2), w praktyce Merge Sort jest czêsto szybszy, zw³aszcza w przypadku du¿ych zbiorów danych.
+Jednak warto zauwa¿yæ, ¿e efektywnoœæ sortowania zale¿y równie¿ od jakoœci danych. Na przyk³ad Bubble Sort mo¿e byæ szybszy w przypadku niemal posortowanych danych. Dlatego nie ma jednej metody sortowania, która by³aby najlepsza w wszystkich przypadkach.
