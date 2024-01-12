@@ -1,0 +1,5 @@
+while(isRed) {
+    if(i > 5) isRed = true
+    else i++
+}
+

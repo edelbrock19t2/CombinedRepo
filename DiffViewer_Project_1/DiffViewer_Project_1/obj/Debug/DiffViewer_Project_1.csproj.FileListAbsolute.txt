@@ -1,0 +1,10 @@
+C:\Users\Xopero\Documents\Praktyki\Algorythm Projects\DiffViewer_Project_1\DiffViewer_Project_1\bin\Debug\DiffViewer_Project_1.exe.config
+C:\Users\Xopero\Documents\Praktyki\Algorythm Projects\DiffViewer_Project_1\DiffViewer_Project_1\bin\Debug\DiffViewer_Project_1.exe
+C:\Users\Xopero\Documents\Praktyki\Algorythm Projects\DiffViewer_Project_1\DiffViewer_Project_1\bin\Debug\DiffViewer_Project_1.pdb
+C:\Users\Xopero\Documents\Praktyki\Algorythm Projects\DiffViewer_Project_1\DiffViewer_Project_1\obj\Debug\DiffViewer_Project_1.csproj.AssemblyReference.cache
+C:\Users\Xopero\Documents\Praktyki\Algorythm Projects\DiffViewer_Project_1\DiffViewer_Project_1\obj\Debug\DiffViewer_Project_1.Form1.resources
+C:\Users\Xopero\Documents\Praktyki\Algorythm Projects\DiffViewer_Project_1\DiffViewer_Project_1\obj\Debug\DiffViewer_Project_1.Properties.Resources.resources
+C:\Users\Xopero\Documents\Praktyki\Algorythm Projects\DiffViewer_Project_1\DiffViewer_Project_1\obj\Debug\DiffViewer_Project_1.csproj.GenerateResource.cache
+C:\Users\Xopero\Documents\Praktyki\Algorythm Projects\DiffViewer_Project_1\DiffViewer_Project_1\obj\Debug\DiffViewer_Project_1.csproj.CoreCompileInputs.cache
+C:\Users\Xopero\Documents\Praktyki\Algorythm Projects\DiffViewer_Project_1\DiffViewer_Project_1\obj\Debug\DiffViewer_Project_1.exe
+C:\Users\Xopero\Documents\Praktyki\Algorythm Projects\DiffViewer_Project_1\DiffViewer_Project_1\obj\Debug\DiffViewer_Project_1.pdb
